@@ -1,6 +1,6 @@
 
-let startX = JSON.parse(localStorage.getItem('startX'))
-  startY = JSON.parse(localStorage.getItem('startY'))
+let startX = JSON.parse(localStorage.getItem('startX')),
+  startY = JSON.parse(localStorage.getItem('startY')),
   endX = 0,
   endY = 0;
 
